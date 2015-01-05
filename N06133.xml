@@ -114,21 +114,22 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:007788_0000_102D8B6AD41C21E0"/>
-            <pb facs="tcp:007788_0001_102D8B4E8C4B4338" rendition="simple:additions"/>
+            <pb facs="unknown:007788_0000_102D8B6AD41C21E0"/>
+            <pb facs="unknown:007788_0001_102D8B4E8C4B4338"
+                rendition="simple:additions"/>
             <p>
                <hi>Kawanio Che Keeteru:</hi> A TRUE RELATION OF A Bloody BATTLE Fought BETWEEN GEORGE <hi>and</hi> LEWIS, In the YEAR 1755.</p>
             <p>Printed in the Year M,DCC,LVI.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:007788_0002_102D8B523634E848"/>
+            <pb facs="unknown:007788_0002_102D8B523634E848"/>
             <p>THE Words I have choſen at the Head of my Title Page, I am told by a Gentleman ſkilled in the Indian Languages, is very expreſ<g ref="char:EOLhyphen"/>ſive of a HERO relying on GOD to bleſs his Endeavours, in protecting what he has put under his Care.</p>
             <p>To form ſome Idea of its Signification, he ſays, you may imagine a Man, with his Wife, and Children about him, and, with an Air of Reſolution, calling out to his Enemy, ALL THESE GOD HAS GIVEN ME, AND I WILL DEFEND THEM.</p>
          </div>
       </front>
       <body>
          <div type="poem">
-            <pb n="3" facs="tcp:007788_0003_102D8B5524A54960"/>
+            <pb n="3" facs="unknown:007788_0003_102D8B5524A54960"/>
             <argument>
                <head>ARGUMENT.</head>
                <l>How <hi>GEORGE,</hi> for to regain his Right,</l>
@@ -170,7 +171,7 @@
                <l>BUT, as 'tis very ſeldom known,</l>
                <l>That one Misfortune comes alone,</l>
                <l>
-                  <pb n="4" facs="tcp:007788_0004_102D8B57083EC760"/>So honeſt GEORGE had ſcarcely heard,</l>
+                  <pb n="4" facs="unknown:007788_0004_102D8B57083EC760"/>So honeſt GEORGE had ſcarcely heard,</l>
                <l>How he, as to his Land, had far'd,</l>
                <l>When, lo! 'twas his unhappy Fate,</l>
                <l>To meet another Loſs, as great.</l>
@@ -212,7 +213,7 @@
                   <hi>Quoth he,</hi> "I'm come upon my Word,</l>
                <l>"To borrow Caſh, to buy a Sword;</l>
                <l>
-                  <pb n="5" facs="tcp:007788_0005_102D8B58EC347B88"/>"For LEWIS, that perfidious Knave,</l>
+                  <pb n="5" facs="unknown:007788_0005_102D8B58EC347B88"/>"For LEWIS, that perfidious Knave,</l>
                <l>"Who fain would all the World enſlave,</l>
                <l>"Whoſe reſtleſs and ambitious Mind,</l>
                <l>"The Laws of Juſtice cannot bind:</l>
@@ -254,7 +255,7 @@
                </l>
                <l>"Whatever Uſe thou puts them to,</l>
                <l>
-                  <pb n="6" facs="tcp:007788_0006_102D8B5B5F130848"/>"Is no Concern of mine, to know.</l>
+                  <pb n="6" facs="unknown:007788_0006_102D8B5B5F130848"/>"Is no Concern of mine, to know.</l>
                <l>GEORGE underſtood what SIMON meant;</l>
                <l>And bowing-low, away he went,</l>
                <l>Revolving in his honeſt Mind,</l>
@@ -292,7 +293,7 @@
                <l>"It is the ſhorteſt Way by far,</l>
                <l>"And leſs expenſive than the Bar;</l>
                <l>
-                  <pb n="7" facs="tcp:007788_0007_102D8B5D4EB22D30"/>"And 'tis the Way that I intend,</l>
+                  <pb n="7" facs="unknown:007788_0007_102D8B5D4EB22D30"/>"And 'tis the Way that I intend,</l>
                <l>"To bring our Quarrel to an End:</l>
                <l>"Let's fight it fairly, Hand to Hand,</l>
                <l>"And the Survivor take the Land.</l>
@@ -336,7 +337,7 @@
                <l>At length our Warrier fill'd with Shame,</l>
                <l>Unto a cloſe Engagement came,</l>
                <l>
-                  <pb n="8" facs="tcp:007788_0008_102D8B5F46B81F90"/>And ſoon let LEWIS underſtand,</l>
+                  <pb n="8" facs="unknown:007788_0008_102D8B5F46B81F90"/>And ſoon let LEWIS underſtand,</l>
                <l>What 'twas to fight him Hand to Hand.</l>
                <l>For, now, alas! the Crimſon Tide,</l>
                <l>Flow'd freely from the Aggreſſor's Side;</l>
@@ -381,7 +382,7 @@
                <l>GEORGE, now all Tenderneſs appears;</l>
                <l>Nor could he ſtop the flowing Tears</l>
                <l>
-                  <pb n="9" facs="tcp:007788_0009_102D8B6189DA4338"/>But ſtood<g ref="char:punc">▪</g> revolving in his Mind,</l>
+                  <pb n="9" facs="unknown:007788_0009_102D8B6189DA4338"/>But ſtood<g ref="char:punc">▪</g> revolving in his Mind,</l>
                <l>The various Follies of Mankind,</l>
                <l>Then on the Dead he caſt his Eye,</l>
                <l>And thus addreſſed the Standers by:</l>
@@ -420,7 +421,7 @@
                <l>WHILST SIMON thus, from Truth had ſwerv'd,</l>
                <l>NATHAN ſtood by him unobſerv'd.</l>
                <l>
-                  <pb n="10" facs="tcp:007788_0010_102D8B631B936320"/>NATHAN, as ſome are pleas'd to ſay,</l>
+                  <pb n="10" facs="unknown:007788_0010_102D8B631B936320"/>NATHAN, as ſome are pleas'd to ſay,</l>
                <l>
                   <gap reason="illegible: indecipherable" extent="1 span">
                      <desc>〈…〉</desc>
@@ -477,7 +478,7 @@
                      <desc>〈◊〉</desc>
                   </gap> Countenance as pale as Death,</l>
                <l>
-                  <pb n="11" facs="tcp:007788_0011_102D8B65EC13FB38"/>And putting on a ſerious Face,</l>
+                  <pb n="11" facs="unknown:007788_0011_102D8B65EC13FB38"/>And putting on a ſerious Face,</l>
                <l>Such as becomes a Child of Grace;</l>
                <l>A Sigh he gave, and then a Groan,</l>
                <l>And thus began with diſmal Tone.</l>
@@ -519,7 +520,7 @@
                <l>"To judge, before you hear my Story.</l>
                <l>"I lent my Caſh, I freely own,</l>
                <l>
-                  <pb n="12" facs="tcp:007788_0012_102D8B683A36DCD0"/>"Unto my Friend, who then had none,</l>
+                  <pb n="12" facs="unknown:007788_0012_102D8B683A36DCD0"/>"Unto my Friend, who then had none,</l>
                <l>"Who told me on his honeſt Word,</l>
                <l>"He wanted it to buy a Sword.</l>
                <l>"I lent the Caſh; but at the Time,</l>
@@ -559,7 +560,7 @@
                <l>"Suppoſe he'd caſt it in the Sea?</l>
                <l>"Pray muſt the Fault be laid on me?"</l>
                <l>
-                  <pb n="13" facs="tcp:007788_0013_102D87F833448EB8"/>"The Fault, <hi>Quoth</hi> NATHAN would be thine,</l>
+                  <pb n="13" facs="unknown:007788_0013_102D87F833448EB8"/>"The Fault, <hi>Quoth</hi> NATHAN would be thine,</l>
                <l>"If GEORGE had ſaid, 'twas his Deſign;</l>
                <l>"For had he utter'd ſuch a Thought,</l>
                <l>"Thoud'ſt not have lent a ſingle Groat,</l>
@@ -597,7 +598,7 @@
                </l>
                <l>"Their Enemies to kill and wound:</l>
                <l>
-                  <pb n="14" facs="tcp:007788_0014_102D8B6C9901B3F0"/>"Have made a very fine Machine,</l>
+                  <pb n="14" facs="unknown:007788_0014_102D8B6C9901B3F0"/>"Have made a very fine Machine,</l>
                <l>"To catch your Geeſe and Gudgeons in<g ref="char:punc">▪</g>
                </l>
                <l>"Not caught as uſual for our Food,</l>
@@ -638,7 +639,7 @@
                <l>"Or if, thro' Principle or Fear,</l>
                <l>"They could not give towards the War,</l>
                <l>
-                  <pb n="15" facs="tcp:007788_0015_102D8B6F2189F7D0"/>"In either Caſe, I think they ſhou'd,</l>
+                  <pb n="15" facs="unknown:007788_0015_102D8B6F2189F7D0"/>"In either Caſe, I think they ſhou'd,</l>
                <l>"Have left their Seats to thoſe that wou'd.</l>
                <l>"Had this been done, our Elders then,</l>
                <l>"Would have appear'd like honeſt Men;</l>
@@ -699,7 +700,7 @@
                   </gap> a Stone."</l>
             </lg>
             <lg>
-               <pb n="16" facs="tcp:007788_0016_102D8B710D79AD30"/>
+               <pb n="16" facs="unknown:007788_0016_102D8B710D79AD30"/>
                <l>QUOTH NAT, "this <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> ſomething <gap reason="illegible: indecipherable" extent="1 word">
